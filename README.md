@@ -106,6 +106,7 @@ The project helped me understand that development takes time, testing, patience,
 ✅How Others Can Use It-
 
 The Dungeon Quest RPG project can be shared through GitHub so that other people can see the source code, download the project, and run it on their own computer.
+
 1 Requirements
 To run the project, a user should have:
 •	A computer with Windows or a similar operating system
@@ -113,13 +114,16 @@ To run the project, a user should have:
 •	A Java-supported code editor or IDE
 •	Git, if they want to clone the project
 •	The Dungeon Quest RPG source code
+
 2 Getting the Project
 A user can get the project from the GitHub repository by either downloading the project as a ZIP file or cloning the repository using Git.
 After downloading the project, the user needs to extract the files and open the project folder in a suitable Java editor.
+
 3 Running the Project
 After opening the project, the user needs to make sure that Java is properly installed and configured.
 The main Java file should then be run to start the game. The exact starting file is the Main.java class.
 After running the program, the game window will appear and the player can start playing.
+
 4 Game Controls
 The controls are simple:
 •	W – Move Up
@@ -128,7 +132,6 @@ The controls are simple:
 •	D – Move Right
 •	SPACE – Attack
 •	U – Upgrade
-
 
 5 Understanding the Project
 A new developer can understand the project by checking the classes one by one.
