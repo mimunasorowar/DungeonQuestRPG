@@ -102,3 +102,46 @@ Although some parts were frustrating, solving those problems helped me understan
 Dungeon Quest is more than just a coursework project for me. It was my first experience of taking an idea and turning it into a working game.
 
 The project helped me understand that development takes time, testing, patience, and continuous improvement. It also gave me more confidence in working with Java and building larger projects.
+
+✅How Others Can Use It
+The Dungeon Quest RPG project can be shared through GitHub so that other people can see the source code, download the project, and run it on their own computer.
+1 Requirements
+To run the project, a user should have:
+•	A computer with Windows or a similar operating system
+•	Java Development Kit (JDK)
+•	A Java-supported code editor or IDE
+•	Git, if they want to clone the project
+•	The Dungeon Quest RPG source code
+2 Getting the Project
+A user can get the project from the GitHub repository by either downloading the project as a ZIP file or cloning the repository using Git.
+After downloading the project, the user needs to extract the files and open the project folder in a suitable Java editor.
+3 Running the Project
+After opening the project, the user needs to make sure that Java is properly installed and configured.
+The main Java file should then be run to start the game. The exact starting file is the Main.java class.
+After running the program, the game window will appear and the player can start playing.
+4 Game Controls
+The controls are simple:
+•	W – Move Up
+•	A – Move Left
+•	S – Move Down
+•	D – Move Right
+•	SPACE – Attack
+•	U – Upgrade
+
+
+5 Understanding the Project
+A new developer can understand the project by checking the classes one by one.
+Player.java contains the player-related features.
+Enemy.java contains the normal enemy-related features.
+Boss.java contains the boss-related features.
+GamePanel.java manages much of the main gameplay and drawing.
+Dungeon.java is related to the dungeon environment.
+Quest.java handles quest-related features.
+AudioManager.java manages the sound effects.
+This class-based structure makes it easier for another developer to understand the project and make changes.
+
+6 How to Add New Features
+If another developer wants to improve the game, they can add new enemies, weapons, quests, levels, or other features by modifying the related classes.
+For example, a new enemy can be added by working with the enemy-related code. A new weapon can be connected with the player and inventory system. New quests can be added through the quest system.
+In this way, the project can be used as a starting point for making a larger RPG game.
+
