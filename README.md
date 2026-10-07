@@ -103,7 +103,8 @@ Dungeon Quest is more than just a coursework project for me. It was my first exp
 
 The project helped me understand that development takes time, testing, patience, and continuous improvement. It also gave me more confidence in working with Java and building larger projects.
 
-✅How Others Can Use It
+✅How Others Can Use It-
+
 The Dungeon Quest RPG project can be shared through GitHub so that other people can see the source code, download the project, and run it on their own computer.
 1 Requirements
 To run the project, a user should have:
